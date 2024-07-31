@@ -24,7 +24,7 @@ in last qestion you have to select submit button for submission.
 
 
 ### 🎀For Running this on your local🎀 
-- git clone https://github.com/abhishekrawe/Quiz-app-using-react.git
+- git clone https://github.com/komalmishra121/Quiz-app-using-react.git
 - cd to Quiz-app-using-react
 - npm install 
 - npm start
